@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+set -e
+#source /home/wenws/1_googleslam/install_isolated/setup.bash
+catkin_make_isolated --install --use-ninja
+

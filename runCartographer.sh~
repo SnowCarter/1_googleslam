@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+set -e
+roslaunch cartographer_ros backpack_3d.launch bag_filename:=/media/wenws/research_plus/space_for_linux/2_bagfile/correct_odom_village.bag
+

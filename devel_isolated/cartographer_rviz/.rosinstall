@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/wenws/1_googleslam/devel_isolated/cartographer_rviz/setup.sh
